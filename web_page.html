@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WEATHER</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="shortcut icon" href="#">
+</head>
+
+<body>
+
+
+    <div class="full_page">
+        <div class="searchBox">
+            <input id="search_box" type="text" placeholder="Search for location" spellcheck="false">
+            <button><img src="weatherImg/search-icon.png"></button>
+        </div>
+        <div class="weather">
+            <img src="weatherImg/clear-day.png" class="weather-icon">
+            <h4 class="temp">22&deg;</h4>
+            <h3 class="city">Delhi</h3>
+        </div>
+        <div class="details">
+            <div class="col1">
+                <img src="weatherImg/humidity.png">
+                <div class="detail1">
+                    <p class="humidity">50%</p>
+                    <p>Humidity</p>
+                </div>
+            </div>
+            <div class="col2">
+                <img src="weatherImg/wind.png">
+                <div class="detail2">
+                    <p class="wind">20 km/h</p>
+                    <p>Wind Speed</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="javaScript/app.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
