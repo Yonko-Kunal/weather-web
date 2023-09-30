@@ -67,6 +67,12 @@
     font-size: 4rem;
 }
 
+.loc-country {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .weather h1 {
     font-size: 27px;
 }
